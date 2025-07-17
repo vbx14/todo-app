@@ -1,0 +1,44 @@
+body {
+  font-family: 'Segoe UI', sans-serif;
+  background: #282c34;
+  color: white;
+  min-height: 100vh;
+  margin: 0;
+  padding: 20px;
+}
+
+.todo-app {
+  max-width: 600px;
+  margin: auto;
+  background: #1e1e2f;
+  padding: 30px;
+  border-radius: 12px;
+}
+
+input {
+  width: 80%;
+  padding: 10px;
+  border: none;
+  border-radius: 8px;
+}
+
+button {
+  margin-left: 10px;
+  background: #00d2ff;
+  border: none;
+  border-radius: 8px;
+  padding: 10px;
+  cursor: pointer;
+}
+
+.todo-item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.completed {
+  text-decoration: line-through;
+  color: #aaa;
+}
