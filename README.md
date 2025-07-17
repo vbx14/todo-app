@@ -47,7 +47,7 @@ src/
 ### Main Interface
 ![Home UI](https://github.com/vbx14/todo-app/blob/bd628b5e51ef2d9d4806cbc162825466e8cbcc27/screenshots/main.png)
 
-### Server Live and Tests Passed
+### Server Live and Test Case Success
 ![Test Cases and Server Live - Success](https://github.com/vbx14/todo-app/blob/de2a0d32b576ea91616de0cb55d501c0294d5cb6/screenshots/server_live%2BtestCase_pass.png)
 
 ## Docker Support (Optional)
